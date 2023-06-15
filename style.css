@@ -1,0 +1,26 @@
+.container{
+    width:600px;
+    margin:auto
+}
+.picture{
+    float:right;
+    width:150px;
+    border:1px black solid;
+    border-radius:20px;
+    margin-left:10px
+
+}
+.title {
+    font-family: 'Playfair Display';
+    width:400px;
+    display: inline-block;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.text {
+    font-family: 'Playfair Display', serif;
+}
+.coffe {
+    font-size:22px;
+    color:brown;
+}
